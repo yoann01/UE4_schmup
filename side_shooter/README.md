@@ -1,6 +1,5 @@
-# ue4_prj
 
-## Basic tank c++ game
+## Ue4 shmup blueprint prototype
 * To be completed
 * To be completed
 
