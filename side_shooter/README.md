@@ -1,5 +1,5 @@
 
-## Ue4 shmup blueprint prototype
+## Ue4 blueprint prototype
 * To be completed
 * To be completed
 
